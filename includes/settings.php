@@ -49,7 +49,7 @@ $CONFIG['gzip_return'] = false;
 
 # Warn users before browsing a secure site if on an insecure
 # connection. This option has no effect if your proxy is on https.
-$CONFIG['ssl_warning'] = true;
+$CONFIG['ssl_warning'] = false;
 
 # The fastest and most reliable method of ensuring javascript is
 # properly proxied is to override the native javascript functions
