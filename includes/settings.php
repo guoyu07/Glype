@@ -33,7 +33,7 @@ $CONFIG['enable_blockscript'] = false;
 
 # Theme/skin to use. This should be the name of the appropriate
 # folder inside the /themes/ folder.
-$CONFIG['theme'] = 'default';
+$CONFIG['theme'] = 'gabry';
 
 # Run plugins on these websites
 $CONFIG['plugins'] = 'yahoo.com,hotmail.com,twitter.com,msn.com,myspace.com,ytimg.com,google.com,live.com,facebook.com,youtube.com';
