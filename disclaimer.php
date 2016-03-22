@@ -32,8 +32,8 @@ require 'includes/init.php';
 //	<p>This service may download a resource over a secure connection but this may be sent back to you over an unsecure connection. Do not enter confidential information unless you are on a secure connection to our server.</p>
 //OUT;
 $content = <<<OUT
-<h2 class="first">鍏嶈矗澹版槑</h2>
-<p>璇ョ綉绔欑敱涓汉鎼缓锛屼粎鐢ㄤ簬鏌ヨ鎶�鏈祫鏂欙紝璇峰嬁浣滀粬鐢紝鍚﹀垯涓�鍒囧悗鏋滆嚜璐燂紒</p>
+<h2 class="first">免责声明</h2>
+<p>该网站由个人搭建，仅用于查询技术资料，请勿作他用，否则一切后果自负！</p>
 OUT;
 /*****************************************************************
 * Send content wrapped in our theme
